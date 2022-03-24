@@ -2,7 +2,7 @@
 - :blossom: ⸱ Flori
 - :star: ⸱ non-binary
 - :adult: ⸱ 19y/o
-- :bust_in_silhouette:(:flag_gb:/:flag_de:) ⸱ he/er, she/sie, they/dey
+- :bust_in_silhouette: ⸱ he/er, she/sie, they/dey
 
 
 <!--
