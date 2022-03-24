@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, world 👋
+:blossom: ⸱ Flori
+:star: ⸱ non-binary
+:adult: ⸱ 19y/o
+:bust_in_silhouette:(:flag_gb:/:flag_de:) ⸱ he/er, she/sie, they/dey
+
 
 <!--
 **bitfl0wer/bitfl0wer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
