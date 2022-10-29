@@ -1,7 +1,7 @@
 ### Hello, world 👋
 - :blossom: ⸱ Flori
 - :star: ⸱ non-binary
-- :adult: ⸱ 19y/o
+- :adult: ⸱ 20y/o
 - :bust_in_silhouette: ⸱ he/er, she/sie, they/dey
 
 
