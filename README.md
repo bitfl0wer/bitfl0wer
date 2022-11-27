@@ -1,3 +1,5 @@
+<a rel="me" href="https://mastodon.lol/@foril">Mastodon</a>
+
 ### Hello, world 👋
 - :blossom: ⸱ Flori
 - :star: ⸱ non-binary
