@@ -1,7 +1,3 @@
-### Hello, world 👋
-- :blossom: ⸱ Flori
-- :star: ⸱ non-binary
-- :adult: ⸱ 20y/o
-- :bust_in_silhouette: ⸱ he/er, she/sie, they/dey
+# Hi
 
-Currently doing a lot of Python Development for Discord and Web communities!
+This is my personal GitHub Profile. If you look around, you will almost certainly find some empty repositories. This is because I treat my GitHub Repositories as "Bookmarks" for Ideas that I eventually want to turn into code.
