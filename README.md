@@ -2,7 +2,7 @@
 
 ### 🐱 Hi!
 
-I am Flori, 20 years old, trans\*, non-binary and a computer science student. I like solving my own daily annoyances and problems using code, and solving other peoples' annoyances and problems using code as well! 
+I am Flori, 20 years old, trans\*, non-binary and a computer science student. I like solving my own daily annoyances and problems using code, and solving other peoples' annoyances and problems using code as well! I am currently working on [the Polyphony Project](https://github.com/polyphony-chat/) ^^
 
 ---
 ### 💡 About this profile
