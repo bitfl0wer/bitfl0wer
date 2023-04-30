@@ -11,6 +11,5 @@ This is my personal GitHub Profile. If you look around, you will almost certainl
 
 ---
 ### ⚙️ Stats
-<div style="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=bitfl0wer&theme=transparent&hide_border=true&border_radius=7.1)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bitfl0wer&theme=transparent&hide_border=true&border_radius=7.1)](https://git.io/streak-stats)
