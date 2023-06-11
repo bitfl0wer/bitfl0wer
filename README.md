@@ -9,7 +9,7 @@ I am Flori, 20 years old, trans\*, non-binary and a computer science student. I 
 ---
 ## 🧩 Projects
   
-  A little overview of projects' which I have created, or am a maintainer of.
+  A little overview of projects which I have created, or am a maintainer of.
 
 ### Polyphony
   
