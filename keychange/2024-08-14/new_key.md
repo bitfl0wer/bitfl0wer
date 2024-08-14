@@ -4,45 +4,23 @@ This is a message informing about the fact that I am starting to migrate
 away from my RSA4096-based GPG key in favor of an ED25519-based master
 key with subkeys.
 
-This message is signed using my old key with fingerprint
-`FD3E9261DAB4C2FF8E922EBE0ACD574FCF5226CF`. This key has been used
-to sign all of my commits up until this point. My new keys' public key including the public key of my new subkey
-are attached to this message.
+This text document is signed using my old pubkey with fingerprint `FD3E9261DAB4C2FF8E922EBE0ACD574FCF5226CF`,
+which was also used to sign all of my previous commits.
 
-### New Master Pubkey:
+### New Pubkey:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEZry9JBYJKwYBBAHaRw8BAQdAT1gaUW7KLF+o+AjlfyTq1Gev0+Yi7njbpth8
-L1m0Zu60I0Zsb3JpIFdlYmVyIDxmbG9yaWFuQHByby13ZWJlci5jb20+iJkEExYK
-AEEWIQQrNJSAjNyLlIGx90GINPmcqWFpggUCZry9JAIbAwUJA8JnAAULCQgHAgIi
-AgYVCgkICwIEFgIDAQIeBwIXgAAKCRCINPmcqWFpgnyOAQCRe1+gk9G6t5B6fc1u
-w/hoKGaerPdhmVWoDPMwH6ZCVQD/ajVzF2o2m0K4ayfZZH68aqGBYFrGvoIkSB/e
-mgKW+Aq4OARmvL0kEgorBgEEAZdVAQUBAQdAb/J85PTKs+nevgtdiO1kFar7bCwe
-ovYozks/ckt3qWADAQgHiH4EGBYKACYWIQQrNJSAjNyLlIGx90GINPmcqWFpggUC
-Zry9JAIbDAUJA8JnAAAKCRCINPmcqWFpgo27AQDjoZ22ifDAbPfJjnf1kAWC9DxY
-gI5spVFG4gU2WLapygEAi3HZmf5mt2M1NUJRJZVNy2Hd0IB0ytYjPzfKTG7czQE=
-=dT4T
------END PGP PUBLIC KEY BLOCK-----
-```
-
-### New Subkey Pubkey:
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: 2B34 9480 8CDC 8B94 81B1  F741 8834 F99C A961 6982
-Comment: Flori Weber <florian@pro-weber.com>
-
-xjMEZry9JBYJKwYBBAHaRw8BAQdAT1gaUW7KLF+o+AjlfyTq1Gev0+Yi7njbpth8
-L1m0Zu7NI0Zsb3JpIFdlYmVyIDxmbG9yaWFuQHByby13ZWJlci5jb20+wpkEExYK
-AEEWIQQrNJSAjNyLlIGx90GINPmcqWFpggUCZry9JAIbAwUJA8JnAAULCQgHAgIi
-AgYVCgkICwIEFgIDAQIeBwIXgAAKCRCINPmcqWFpgnyOAQCRe1+gk9G6t5B6fc1u
-w/hoKGaerPdhmVWoDPMwH6ZCVQD/ajVzF2o2m0K4ayfZZH68aqGBYFrGvoIkSB/e
-mgKW+ArOOARmvL0kEgorBgEEAZdVAQUBAQdAb/J85PTKs+nevgtdiO1kFar7bCwe
-ovYozks/ckt3qWADAQgHwn4EGBYKACYWIQQrNJSAjNyLlIGx90GINPmcqWFpggUC
-Zry9JAIbDAUJA8JnAAAKCRCINPmcqWFpgo27AQDjoZ22ifDAbPfJjnf1kAWC9DxY
-gI5spVFG4gU2WLapygEAi3HZmf5mt2M1NUJRJZVNy2Hd0IB0ytYjPzfKTG7czQE=
-=yxVV
+mDMEZrzZzRYJKwYBBAHaRw8BAQdA/o4UE5DCJoym3sMn7Fg68gHhOz65Gny3O7Pa
+cAhS1cq0I0Zsb3JpIFdlYmVyIDxmbG9yaWFuQHByby13ZWJlci5jb20+iJMEExYK
+ADsWIQQ35IJPt3EE0sH5RbTnQfSeDgGcpwUCZrzZzQIbAwULCQgHAgIiAgYVCgkI
+CwIEFgIDAQIeBwIXgAAKCRDnQfSeDgGcpzoEAQC0Z8Xx+9Nt+YB498fkCJBnGcVz
+gRn8plr8KPw2UngtBgD+KENSzJMRjCXnceGA0PEPY70D6oOvDMBUT0jVfDwS2Ay4
+OARmvNnNEgorBgEEAZdVAQUBAQdA5jpeLzB/eRiV1u4g/7bRLLWAcgADNKkX8Y/p
+rqQu4AwDAQgHiHgEGBYKACAWIQQ35IJPt3EE0sH5RbTnQfSeDgGcpwUCZrzZzQIb
+DAAKCRDnQfSeDgGcp90wAQDl8J2x7FuZ+mGVTEZNkpfYc8evlI01UPwUWNigskAc
+nQEA0p6tZo7K+aWN21tWdLE1qGGbI4RvzS7olHdQOPEKlgY=
+=kZLg
 -----END PGP PUBLIC KEY BLOCK-----
 ```
