@@ -20,6 +20,6 @@
 - Age: 21
 - Pronouns: they/them, she/her
 - Contact:
-  - Email: [florian@pro-weber.com](mailto:florian@pro-weber.com), OpenPGP fingerprint: `FD3E9261DAB4C2FF8E922EBE0ACD574FCF5226CF`
+  - Email: [florian@pro-weber.com](mailto:florian@pro-weber.com), OpenPGP fingerprint: `37E4824FB77104D2C1F945B4E741F49E0E019CA7`
   - Email: [flori@polyphony.chat](mailto:flori@polyphony.chat), OpenPGP fingerprint: `1AFF5E2D2145C795AB117C2ADCAE4B6877C6FC4E`
   - Discord: `bitfl0wer`
