@@ -3,6 +3,8 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21527%26project%3D%26in%3D0)](https://codetime.dev) 
 ![Favorite language: Rust. GitHub Badge](https://img.shields.io/badge/Favorite_language-Rust-orange)
 
+## [🔑 New public key: Read](./keychange/2024-08-14/new_key.md)
+
 
 <img src="./assets/cat-anim.gif" style="width: 100%" alt="A pixel-art style cat emerging from the lower bound of the screen. It looks to the left and to the right, and then says 'Hi'.">
 
