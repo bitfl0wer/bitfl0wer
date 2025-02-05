@@ -25,7 +25,7 @@ Feel free to check out [the source code](https://github.com/bitfl0wer/flori/tree
 ## Hi. :cat:
 
 - Name: Flori
-- Age: 21
+- Age: 22
 - Pronouns: they/them, she/her
 - Contact:
   - Email: [flori@bitfl0wer.de](mailto:florian@pro-weber.com)
