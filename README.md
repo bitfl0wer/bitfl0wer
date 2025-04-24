@@ -1,25 +1,78 @@
 <div align='center'>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21527%26project%3D%26in%3D0)](https://codetime.dev) 
-![Favorite language: Rust. GitHub Badge](https://img.shields.io/badge/Favorite_language-Rust-orange)
-
-## [🔑 New public key: Read](./keychange/2024-08-14/new_key.md)
-
-
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21527%26project%3D%26in%3D0)](https://codetime.dev)
 <img src="./assets/cat-anim.gif" style="width: 100%" alt="A pixel-art style cat emerging from the lower bound of the screen. It looks to the left and to the right, and then says 'Hi'.">
 
 </div>
 
-![A screenshot of computer code, written in the Rust programming language. The code defines several types and variables, including 2 static fields for contact email addresses, 2 static fields for public key fingerprints, and an enum "Pronouns". It also defines a structure named "Flori" with fields for name, age, pronouns, and biography. The code then creates an instance of the "Flori" struct and prints information about it, including contact details and a biography that says:"Hi! I am Flori. I'm a 21 year old, passionate Software Engineer, currently working for the Deutsche Telekom MMS GmbH. Education-wise, I'm in the process of getting my bachelors degree in Computer Science. I dedicate a lot of my free time to working on the Polyphony project, which, when released, will provide decentralized, federated and secure communications software, aimed primarily to be a replacement to Discord."](./assets/code.png)
+<pre>
+    ██████  ████                      ███             █████     
+   ███░░███░░███                     ░░░             ░░███      
+  ░███ ░░░  ░███   ██████  ████████  ████      █████  ░███████  
+ ███████    ░███  ███░░███░░███░░███░░███     ███░░   ░███░░███ 
+░░░███░     ░███ ░███ ░███ ░███ ░░░  ░███    ░░█████  ░███ ░███ 
+  ░███      ░███ ░███ ░███ ░███      ░███     ░░░░███ ░███ ░███ 
+  █████     █████░░██████  █████     █████ ██ ██████  ████ █████
+ ░░░░░     ░░░░░  ░░░░░░  ░░░░░     ░░░░░ ░░ ░░░░░░  ░░░░ ░░░░░ 
+
+  
+~ ❯  whoami
+flori
+
+~ ❯  ls -la
+drwxr-xr-x@    - flori 19 Apr 17:21 Codespace/
+drwxr-xr-x@    - flori 22 Sep  2024 Desktop/
+drwxr-xr-x@    - flori 13 Apr 16:00 Documents/
+drwxr-xr-x@    - flori 20 Apr 20:55 Downloads/
+drwxr-xr-x@    - flori 20 Aug  2024 skills.md
+drwxr-xr-x@    - flori 16 Feb 19:41 projects.md
+drwxr-xr-x@    - flori 14 May 10:44 contact.md
+
+~ ❯ cat skills.md | grep '^### ' | head -n 5
+### Rust
+### Python
+### Docker
+### Bash
+### PostgreSQL
+
+~ ❯ cat projects.md
+# My current projects
+
+There's a lot of littler projects I work or have worked on, but
+the following projects are the ones I am most enthusiastic about.
+
+- <a href="https://github.com/polyphony-chat">Polyphony Chat</a>
+  - The <a href="https://github.com/polyphony-chat/symfonia/">symfonia</a> chat server
+  - <a href="https://github.com/polyphony-chat/chorus">Chorus</a>, the client SDK
+  - The reference implementation of polyproto: <a href="https://github.com/polyphony-chat/polyproto-rs/">polyproto-rs</a>
+  - And lots of other, cool stuff :)
+- <a href="https://polyproto.org/">The polyproto federation protocol</a>
+- A helper library for vanilla PostgreSQL and sqlx, <a href="https://github.com/bitfl0wer/sqlx-pg-uint">sqlx-pg-uint</a>
+  making it easier to interact with Rust unsigned integers in PGSQL
+
+~ ❯ cat contact.md
+# ☎️ Contact
+
+| Protocol          | ID, Handle, Address       |
+| ----------------- | ------------------------- |
+| Email (general)   | <a href="mailto:info@bitfl0wer.de">info@bitfl0wer.de</a>         |
+| Email (Polyphony) | <a href="mailto:flori@polyphony.chat">flori@polyphony.chat</a>      |
+| Email (work)      | <a href="mailto:f.weber@famedly.com">f.weber@famedly.com</a>       |
+| Discord           | @bitfl0wer                |
+| Matrix            | @florian_weber:famedly.de |
 
 ---
 
-## Hi. :cat:
+When contacting me via email, it'd be nice if you could choose the
+appropriate address for your type of request. Pick "General" if
+unsure!
 
-- Name: Flori
-- Age: 21
-- Pronouns: they/them, she/her
-- Contact:
-  - Email: [florian@pro-weber.com](mailto:florian@pro-weber.com), OpenPGP fingerprint: `37E4824FB77104D2C1F945B4E741F49E0E019CA7`
-  - Email: [flori@polyphony.chat](mailto:flori@polyphony.chat), OpenPGP fingerprint: `1AFF5E2D2145C795AB117C2ADCAE4B6877C6FC4E`
-  - Discord: `bitfl0wer`
+Discord is likely the fastest and most reliable way to contact me
+(sadly).
+
+~ ❯ rm -rf /
+
+rm: it is dangerous to operate recursively on '/'
+rm: use --no-preserve-root to override this failsafe
+
+</pre>
