@@ -1,7 +1,8 @@
-<div align='center'>
+# boop <img src="https://eu-central-2.wasabisys.com/bfl0-iceshrimp/original-633a0b0e-9556-43c0-a7d2-f0270e6c2bb6" alt="A fluffy, orange, cartoon fox blob emoji" style="height: 32px; width: 32px;"></img>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21527%26project%3D%26in%3D0)](https://codetime.dev)
-<img src="./assets/cat-anim.gif" style="width: 100%" alt="A pixel-art style cat emerging from the lower bound of the screen. It looks to the left and to the right, and then says 'Hi'.">
+i migrated to [codeberg](https://codeberg.org/ava). the only work i do here is for my employer, and perhaps for projects i haven't moved over yet.
+
+<div align='center'>
 
 </div>
 
